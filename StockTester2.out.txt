@@ -1,0 +1,17 @@
+Stock 1 is 
+ENPH : 10000 @ $  184.52 (Enphase Energy Inc.)
+
+At first, stock 2 is 
+nul  :    0 @ $    0.00 (null)
+
+Later, stock 2 is 
+UBX  : 10000 @ $    1.15 (UNITY Biotechnology Inc.)
+
+Stock 3 is a copy of Stock 1 
+ENPH : 10000 @ $  184.52 (Enphase Energy Inc.)
+Now looking at stock 3 element by element: 
+Name: Enphase Energy Inc.
+Ticker: ENPH
+Price: 184.52
+Quantity: 10000
+Key: ENPH
